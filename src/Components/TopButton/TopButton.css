@@ -1,0 +1,21 @@
+#goTopBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#goTopBtn:hover {
+  color: #0d7dee;
+}
+
+.fa-chevron-circle-up {
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+  background-color: #ffffff;
+  border-radius: 50%;
+  padding: 10px;
+}

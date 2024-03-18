@@ -1,0 +1,14 @@
+@keyframes fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  25%,
+  75% {
+    opacity: 1;
+  }
+}
+
+#changingWord {
+  animation: fade 4s infinite;
+}
