@@ -5,6 +5,7 @@ const Contact = () => {
     <section id="contact">
       <div className="contact-info-container">
         <h2>Contact</h2>
+    <p>+94756261513</p>
         <p>J.M.C.Niroshana Jayathilaka,</p>
         <p>BSc. Software Engineering,</p>
         <p>CINEC Campus, Malabe,</p>
