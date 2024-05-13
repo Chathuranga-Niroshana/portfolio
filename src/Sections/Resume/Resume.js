@@ -1,6 +1,6 @@
 import React from "react";
-import resumeImg from "../../Assests/Resume/CV.png";
-import resume from "../../Assests/Resume/J.M.Chathuranga Niroshana.pdf";
+import resumeImg from "../../Assests/Resume/Screenshot (143).png";
+import resume from "../../Assests/Resume/J.M.Chathuranga Niroshana Jayathilaka.pdf";
 
 const Resume = () => {
   return (
