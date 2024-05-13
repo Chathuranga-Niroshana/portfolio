@@ -25,7 +25,7 @@ const Contact = () => {
           <i className="fa fa-envelope" style={{ color: "rgb(135, 9, 9)" }}></i>
         </a>
         <a
-          href="https://wa.me/+94757684501"
+          href="https://wa.me/+94756261513"
           target="_blank"
           rel="noopener noreferrer"
         >
