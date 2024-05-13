@@ -91,58 +91,55 @@ const Skill = () => {
           <div className="skill" id="oopSkills">
             OOP Skills
           </div>
+  <div className="skill" id="oopSkills">
+           Version Control (Git)
+          </div>
         </div>
         <div className="skills-container">
           <div className="skill key" id="html">
             HTML
-            <p>
-              Standard markup language for documents designed to be displayed in
-              a web browser.
-            </p>
           </div>
           <div className="skill key" id="css">
             CSS
-            <p>
-              Style sheet language for describing the look and formatting of a
-              document.
-            </p>
           </div>
           <div className="skill key" id="tailwind">
             Tailwind CSS
-            <p>Tailwind CSS provides utility-first classes for design.</p>
+          </div>
+    <div className="skill key" id="tailwind">
+            Bootstrap
           </div>
           <div className="skill key" id="javascript">
             JavaScript
-            <p>
-              Programming language for interactive web pages. A core technology
-              of the World Wide Web.
-            </p>
           </div>
           <div className="skill key" id="react">
             React JS
-            <p>
-              JavaScript library for building user interfaces or UI components.
-              Maintained by Facebook and a community of developers.
-            </p>
           </div>
           <div className="skill key" id="node">
             Node JS
-            <p>Node js is a JavaScript runtime built on Chrome's V8 engine.</p>
           </div>
           <div className="skill key" id="express">
             Express JS
-            <p>Express.js is a web application framework for Node.js.</p>
+          </div>
+    <div className="skill key" id="mysql">
+            PHP
+          </div>
+    <div className="skill key" id="mysql">
+            JAVA
+          </div>
+    <div className="skill key" id="mysql">
+            Next JS
+          </div>
+    <div className="skill key" id="mysql">
+            Python
+          </div>
+    <div className="skill key" id="mysql">
+            MySQL
           </div>
           <div className="skill key" id="mongodb">
             MongoDB
-            <p>NoSQL database program.</p>
           </div>
-          <div className="skill key" id="mongoose">
-            Mongoose
-            <p>
-              Mongoose is an Object Data Modeling (ODM) library for MongoDB and
-              Node.js.
-            </p>
+          <div className="skill key" id="mysql">
+            MySQL
           </div>
         </div>
       </div>
