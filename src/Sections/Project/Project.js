@@ -6,9 +6,17 @@ import TDL from "../../Assests/Project1/Screenshot (85).png";
 import ET from "../../Assests/Project1/Screenshot (104).png";
 import SMD from "../../Assests/Project1/Screenshot (103).png";
 import COM from "../../Assests/Project1/Screenshot (135).png";
+import EMP from "../../Assests/Project1/Screenshot (141).png";
 
 const Project = () => {
   const projects = [
+    {
+      title: "Employee Management System",
+      description:
+        "This is an Employee Management System for a company. This has many features such as department/ project management, Employee management. task management. This Web app was created using React JS, CSS, Node JS, Express JS and MySQL as database.",
+      image: EMP,
+      githubLink: "https://github.com/Chathuranga-Niroshana/Employee-Management-System",
+    },
     {
       title: "COM.com",
       description:
